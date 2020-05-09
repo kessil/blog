@@ -1,0 +1,5 @@
+baseURL = "https://kessil.github.io/blog/"
+languageCode = "zh-CN"
+title = "My New Hugo Site"
+theme = "hyde"
+publishDir = "docs"

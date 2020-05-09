@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://kessil.github.io/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 29 Dec 2018 20:24:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://kessil.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的Blog</title>
+      <link>https://kessil.github.io/blog/posts/%E6%88%91%E7%9A%84blog/</link>
+      <pubDate>Sat, 09 May 2020 21:19:06 +0800</pubDate>
+      
+      <guid>https://kessil.github.io/blog/posts/%E6%88%91%E7%9A%84blog/</guid>
+      <description>记录第一次使用Hugo搭建个人博客，我的博客没有什么好写的，仅仅随便写写，随心所欲。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://kessil.github.io/blog/about/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>https://kessil.github.io/blog/about/</guid>
+      <description>Hugo 官方主页: https://gohugo.io/
+Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，自己编译。由于各种不可预料的网络问题，第二种方式不是那么轻易能成功，虽然最后我还是折腾出来了。
+Hugo二进制下载地址: https://github.com/gohugoio/hugo/releases</description>
+    </item>
+    
+  </channel>
+</rss>
